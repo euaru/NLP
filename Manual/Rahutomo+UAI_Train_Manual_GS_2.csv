@@ -628,3 +628,95 @@ sebuah perangkat keras yang dapat memudahkan kita untuk mengerjakan segala kebut
  - usb port",te_3,97,A
 "hardware merupakan perangkat keras, contohnya monitor, keyboard dan benda lainnya yang dapat disentuh",te_3,72,B
 Hardware adalah perangkat komputer yang memiliki komponen fisik yang dapat dilihat dan dirasakan.,te_3,47,C
+"data adalah kumpulan fakta.
+ informasi adalah data yang telah diolah.
+ pengetahuan adalah pemahaman terkait informasi.",te_4,83,A
+"data merupakan sebuah fakta yang masih mentah yang belum memiliki arti atau makna
+ informasi data yang telah diolah dan memiliki makna
+ pengetahuan merupakan infromasi yang telah di proses oleh pikiran yang dapat digunakan dalam melakukan pengambilakn keputusan atau pemecahan masalah",te_4,85,A
+"Data adalah konten yang dapat diamati secara langsung atau dapat diverifikasi (fakta). 
+ Informasi adalah konten yang mewakili data yang dianalisis. 
+ Pengetahuan adalah segala wawasan, pemahaman, dan pengetahuan praktis yang kita semua miliki.
+ 
+ Perbedaan dari data, informasi dan pengetahuan adalah data berada di dunia yang nyata memahami bahwa data ada, sementara informasi adalah kumpulan dari data yang dikirim atau diterima oleh individu atau organisasi, sedangkan pengetahuan berada di dalam diri individu tersebut melalui proses diterima, disadari dan dipahami hasil dari informasi tersebut.",te_4,90,A
+"Data:
+ * Data adalah kumpulan fakta mentah, angka, simbol, atau karakter yang tidak memiliki arti atau konteks tertentu.
+ * Data belum memiliki nilai atau signifikansi tanpa proses pengolahan lebih lanjut.
+ 
+ Informasi:
+ * Informasi adalah data yang telah diolah atau diinterpretasi sehingga memiliki arti atau konteks yang jelas dan bermanfaat.
+ * Informasi memberikan pemahaman tentang suatu situasi atau masalah tertentu.
+ 
+ Pengetahuan:
+ * Pengetahuan adalah pemahaman yang lebih mendalam atau konteks yang lebih luas yang dibangun di atas informasi.
+ * Ini melibatkan interpretasi, analisis, pengalaman, dan pemahaman yang mendalam tentang suatu subjek atau domain.
+ * Pengetahuan memungkinkan individu atau organisasi untuk membuat keputusan yang cerdas, memecahkan masalah, dan beroperasi dengan efisien.",te_4,93,A
+"Data adalah bahan-bahan yang diperlukan untuk menghasilkan informasi, dan informasi adalah langkah pertama untuk membangun pengetahuan dan Pengetahuan adalah pemahaman yang lebih dalam terhadap Data dan Informasi yang kemudian dapat diterapkan atas informasi tersebut.",te_4,90,A
+"Data: Data adalah kumpulan fakta mentah, angka, simbol, atau unsur-unsur lain yang belum memiliki konteks atau makna tertentu. Data belum diorganisir atau diolah sehingga tidak memberikan pemahaman yang signifikan. Contoh data adalah serangkaian angka, huruf, atau karakter yang mungkin tidak memiliki arti apapun tanpa konteks, seperti ""12345"" atau ""ABCDE.""
+ 
+ Informasi: Informasi adalah data yang telah diolah, dianalisis, atau diinterpretasikan sehingga memiliki makna atau konteks yang bermanfaat. Informasi memberikan pemahaman tentang suatu situasi atau fenomena. Contoh informasi adalah hasil dari pengolahan data, seperti ""Rata-rata usia responden adalah 35 tahun,"" yang memberikan makna tentang usia responden dalam suatu penelitian.
+ 
+ Pengetahuan: Pengetahuan adalah pemahaman yang lebih mendalam dan kontekstual yang didapatkan dari informasi. Ini melibatkan kemampuan untuk mengaitkan informasi dengan pengalaman, konsep, atau kerangka pemikiran yang lebih luas. Pengetahuan membantu individu atau organisasi membuat keputusan yang lebih baik dan mengambil tindakan yang tepat. Contoh pengetahuan adalah pemahaman tentang cara menjalankan bisnis yang sukses berdasarkan pengalaman dan analisis data yang melibatkan pasar, pelanggan, dan kompetitor.",te_4,97,A
+"1. Data merupakan bahan mentah dari informasi.
+ 2. Informasi adalah hasil pengolahan data yang sudah dapat diterima oleh akal pikiran penerima informasi yang nantinya dapat digunakan untuk pengambilan keputusan.
+ 3. Pengetahuan adalah Pengetahuan terdiri dari informasi yang sudah diorganisasikan dan diproses untuk memperoleh pemahaman, pengalaman, pembelajaran yang terakumulasi, sehingga dapat diaplikasikan dalam masalah atau proses bisnis tertentu.",te_4,83,A
+"1. Di Donasikan
+ 2. Di jual kembali
+ 3. Di perbaiki atau recycle",te_5,83,A
+"menjual atau menyumbangkan barang elektronik yang sudah tidak terpakai.
+ mendaur ulang sampah elektronik untuk mendapatkan bahan bahan yang masih dapat digunakan.
+ kembaliMelakukan pengolahan sampah elektronik yang aman untuk mencegah terjadinya polusi udara dan air.",te_5,83,A
+"- lakukan maintenance perangkat secara berkala agar tetap awet
+ - simpan data secara online melalui cloud storage
+ - lakukan perbaikan semampu mungkin apabila masih dapat diperbaiki hingga berfungsi setidaknya bare minimum
+ - jual barang elektronik lama yang sudah tidak digunakan
+ - beli perangkat yang hemat energi",te_5,87,A
+"Mendaur ulang dan membuang limbah elektronik dengan benar
+ Jual perangkat elektronik lama
+ Menjaga Keawetan Barang Elektronik",te_5,80,A
+"Jual Perangkat Elektronik lama
+ Donasikan Perangkat Elektronik yang yidak terpakai
+ Daur ulang atau membuang sampah elektronik dengan benar",te_5,85,A
+"- memperbaiki perangkat sebelum membeli perangkat baru
+ - melakukan recycle terhadap perangkat yang tidak lagi digunakan
+ - menjual atau mendonasikan perangkat yang tidak lagi digunakan",te_5,83,A
+"Berikut cara mengatasi sampah elektronik (e-waste):
+ 
+ * Recycle
+ * Donasi atau perdagangan kembali
+ * Perawatan yang baik
+ * Upaya perbaikan
+ * Program pengembalian produsen",te_5,92,A
+"* Pendauran Ulang
+ * Pengumpulan E-Waste
+ * Donasi / Pengumpulan Kembali
+ * Pemuktahiran dan Perbaikan",te_5,88,A
+"Recycling (Pengolahan Kembali),
+ Donasi dan Pembaruan (Upcycling),
+ Perawatan dan Pembelian yang Bijak.
+ Tekonologi Ramah Lingkungan.",te_5,90,A
+"melebur nya
+ mendaur ulang
+ jadikan kerajinan tangan",te_5,83,A
+"1. Melakukan perbaikan
+ 2. Part yang sudah tidak bisa dipakai bisa dilakukan peleburan untuk mengambil komponen2 seperti emas yang berada di motherboard.
+ 3. Plastik plastik yang ada di komponen tersebut bisa di lelehkan untuk dibuat produk lainnya",te_5,85,A
+"daur ulang
+ perawatan yang baik agar lebih tahan lama
+ memiliki barang elektronik secukupnya",te_5,73,B
+"cara mengatasi sampah elektronik :
+ 1. Menjual kembali barang tersebut
+ 2. Donasikan barang
+ 3. Menyewakan barang",te_5,77,B
+"reduce, reuse, recycle",te_5,77,B
+"* donasikan barang elektronik yang lama
+ * menjual barang elektronik
+ * menjaga barang elektronik",te_5,77,B
+"* Mendonasikan barang elektronik ke orang yang membutuhkan.
+ * Menjual barang elektronik.
+ * Menjaga barang elektronik.",te_5,77,B
+"Menjaga barang elektronik
+ Menyimpan data secara Online
+ Memperbaiki alat elektronik yg rusak",te_5,53,C
+"* Daur ulang
+ *",te_5,37,D
