@@ -720,3 +720,90 @@ Hardware adalah perangkat komputer yang memiliki komponen fisik yang dapat dilih
  Memperbaiki alat elektronik yg rusak",te_5,53,C
 "* Daur ulang
  *",te_5,37,D
+Volatile memory adalah salah satu jenis memori yang membutuhkan listrik untuk menggunakannya. Jika listrik mati data yang disimpan akan hilang.,te_6,93,A
+Merupakan jenis memori dalam komputasi yang membutuhkan daya untuk menyimpan informasi yang disimpan,te_6,80,A
+memori yang ketika daya listrik dimatikan maka data yang tersimpan akan menghilang.,te_6,93,A
+Volatile memory (memori volatil) adalah jenis memori komputer yang kehilangan data yang tersimpan di dalamnya saat daya listrik atau daya komputer dimatikan atau terputus.,te_6,93,A
+merupakan jenis memori yang membutuhkan daya untuk mempertahankan informasi yang tersimpan sehingga ketika dimatikan data yang tersimpan akan hilang salah satu contoh volatile memory : RAM,te_6,83,A
+"volatile memory adalah memori yang menyimpan data yang sifatnya hanya ada ketika ada dayanya/powernya
+ 
+ berarti data akan hilang jika daya/powernya hilang.",te_6,93,A
+Arti volatile dalam memory adalah jenis memori yang menyimpan datanya hanya saat perangkat diberi daya,te_6,93,A
+volatile memory merupakan JENIS MEMORI DALAM KOMPUTASI YANG MEMBUTUHKAN DAYA UNTUK MENYIMPAN INFORMASI YANG DISIMPAN contoh dari media penyimpanan jenis volatile memory adalam RAM. Data-data yang tersimpan didalam RAM rutin diperbaharui secara berkala untuk menghidari data yang tersimpan hilang.,te_6,83,A
+merupakan jenis memori yang membutuhkan daya untuk menyimpan informasi yang disimpan,te_6,80,A
+volatile memory merupaka jenis memori komputer yang kehilangan data yang disimpan di dalamnya saat daya listrik terputus atau perangkat dimatikan,te_6,93,A
+Volatile Memory adalah jenis memori yang membutuhkan daya untuk melakukan penyimpanan informasi.,te_6,80,A
+"Volatile memory, atau dikenal juga sebagai RAM (Random Access Memory), adalah jenis memori komputer yang digunakan untuk menyimpan data sementara yang diperlukan oleh komputer saat sedang dioperasikan. Karakteristik utama dari volatile memory adalah bahwa data yang disimpan di dalamnya akan hilang saat daya listrik komputer dimatikan atau ketika komputer dimatikan.",te_6,93,A
+VOLATILE MEMORY (memori yang mudah hilang) adalah jenis memori dimana komputer yang menyimpan data hanya saat daya listrik disuplai ke komputer. Data tersebut akan hilang jika daya listrik terputus atau dimatikan.,te_6,93,A
+"Volatile memoryadalah jenis memori komputer yang kehilangan data yang disimpan di dalamnya ketika daya listrik diputuskan atau ketika komputer dimatikan. Dalam hal ini, ""volatile"" berarti sifat memori ini yang tidak dapat menyimpan data dalam jangka waktu yang lama tanpa pasokan daya listrik terus-menerus.
+ 
+ Karakteristik utama dari volatile memory adalah kecepatan akses yang tinggi dan kemampuan untuk digunakan sebagai tempat penyimpanan data yang aktif selama komputer dalam keadaan hidup. Namun, karena sifatnya yang volatil, data yang penting harus disimpan di media penyimpanan yang lebih permanen, seperti hard drive atau solid-state drive (SSD), untuk menghindari kehilangan data saat komputer dimatikan.",te_6,93,A
+"memori yang menyimpan datanya hanya saat perangkat diberi daya, jika dayanya hilang maka datanya akan hilang juga",te_6,90,A
+Salah satu jenis memory yang berfungsi ketika diberikan daya.,te_6,77,B
+memory yang tidak stabil,te_6,43,C
+ukuran satistik harga sekuritas dalam periode waktu tertentu,te_6,0,E
+"* LCD: Liquid Crystal Display
+ * CPU: Central Processing Unit
+ * GPS: Global Positioning System",te_7,100,A
+"LCD : Liquid Crystal Display
+ 
+ CPU : Central Processing Unit
+ 
+ GPS : Global Positioning System",te_7,100,A
+"Liquid Crystal Display
+ Central Processing Unit
+ Global Positioning System",te_7,100,A
+"kepanjangan:
+ 
+ LCD =LIQUID CRYSTAL DISPLAY. 
+ CPU =CENTRAL PROCESSING UNIT
+ GPS =GLOBAL POSITIONING SYSTEM",te_7,100,A
+"LCD = Liquid Crystal Display
+ CPU = Central Processing Unit
+ GPS = Global Positioning System",te_7,100,A
+"LCD = liquid crystal display
+ CPU = central processing unit
+ GPS = global positioning system",te_7,100,A
+"Liquid-crystal display
+ Central processing unit
+ Global Positioning System",te_7,100,A
+"lcd = liquid crystal display
+ cpu = central processing unit
+ gps = global positioning system",te_7,100,A
+"LCD : Liquid Crystal Display
+ CPU : Central Processing Unit
+ GPS : Global Positioning System",te_7,100,A
+"- LIQUID CRYSTAL DISPLAY.
+ - CENTRAL PROCESSING UNIT.
+ - GLOBAL POSITIONING SYSTEM.",te_7,100,A
+"LCD = Liquid Crystal Display
+ CPU = Central Processing Unit
+ GPS = Global Positioning System",te_7,100,A
+"Berikut kepanjangan dari LCD, CPU, dan GPS:
+ 
+ * LCD: Liquid Crystal Display
+ * CPU: Central Processing Unit
+ * GPS: Global Positioning System",te_7,100,A
+"LCD ( Liquid Crystal Display)
+ CPU ( Central Processing Unit)
+ GPS (Global Positioning System)",te_7,100,A
+"LCD: Liquid Crystal Display
+ * LCD adalah teknologi layar yang menggunakan kristal cair untuk mengontrol pencahayaan dan menampilkan gambar atau teks pada layar. Layar LCD digunakan dalam berbagai perangkat, seperti monitor komputer, televisi, ponsel cerdas, dan banyak perangkat elektronik lainnya.
+ 
+ CPU: Central Processing Unit
+ * CPU adalah otak dari komputer yang bertanggung jawab untuk menjalankan instruksi-instruksi dalam perangkat lunak dan melakukan operasi pemrosesan data. Ini adalah komponen utama dalam komputer dan berperan dalam menjalankan tugas-tugas komputasi.
+ 
+ GPS: Global Positioning System
+ * GPS adalah sistem navigasi satelit yang digunakan untuk menentukan lokasi dan posisi di permukaan Bumi dengan akurasi tinggi. Ini menggunakan sejumlah satelit di orbit Bumi untuk menghitung koordinat geografis dan memberikan informasi lokasi yang akurat pada perangkat yang dilengkapi dengan GPS.",te_7,100,A
+"lcd liquid crystal display
+ cpu centrao processing unit
+ gps global positioning system",te_7,90,A
+"Liquid Crystal Display
+ Central Processing Unit
+ Global Positioning System",te_7,100,A
+"cpu => Central Processing Unit. 
+ vga =>video graphics adapter
+ lcd => liquid crystal display",te_7,67,B
+"LCD adalah type panel layar yang digunakan untuk menampilkan data
+ CPU adalah inti dari komputer 
+ GPS adalah alat untuk menentukan letak geografis",te_7,10,E
