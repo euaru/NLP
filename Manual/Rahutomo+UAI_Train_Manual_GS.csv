@@ -660,3 +660,85 @@ Hardware adalah perangkat komputer yang memiliki komponen fisik yang dapat dilih
 "1. Data merupakan bahan mentah dari informasi.
  2. Informasi adalah hasil pengolahan data yang sudah dapat diterima oleh akal pikiran penerima informasi yang nantinya dapat digunakan untuk pengambilan keputusan.
  3. Pengetahuan adalah Pengetahuan terdiri dari informasi yang sudah diorganisasikan dan diproses untuk memperoleh pemahaman, pengalaman, pembelajaran yang terakumulasi, sehingga dapat diaplikasikan dalam masalah atau proses bisnis tertentu.",te_4,83,A
+"1. Di Donasikan
+ 2. Di jual kembali
+ 3. Di perbaiki atau recycle",te_5,83,A
+"menjual atau menyumbangkan barang elektronik yang sudah tidak terpakai.
+ mendaur ulang sampah elektronik untuk mendapatkan bahan bahan yang masih dapat digunakan.
+ kembaliMelakukan pengolahan sampah elektronik yang aman untuk mencegah terjadinya polusi udara dan air.",te_5,83,A
+"- lakukan maintenance perangkat secara berkala agar tetap awet
+ - simpan data secara online melalui cloud storage
+ - lakukan perbaikan semampu mungkin apabila masih dapat diperbaiki hingga berfungsi setidaknya bare minimum
+ - jual barang elektronik lama yang sudah tidak digunakan
+ - beli perangkat yang hemat energi",te_5,87,A
+"Mendaur ulang dan membuang limbah elektronik dengan benar
+ Jual perangkat elektronik lama
+ Menjaga Keawetan Barang Elektronik",te_5,80,A
+"Jual Perangkat Elektronik lama
+ Donasikan Perangkat Elektronik yang yidak terpakai
+ Daur ulang atau membuang sampah elektronik dengan benar",te_5,85,A
+"- memperbaiki perangkat sebelum membeli perangkat baru
+ - melakukan recycle terhadap perangkat yang tidak lagi digunakan
+ - menjual atau mendonasikan perangkat yang tidak lagi digunakan",te_5,83,A
+"Berikut cara mengatasi sampah elektronik (e-waste):
+ 
+ * Recycle
+ * Donasi atau perdagangan kembali
+ * Perawatan yang baik
+ * Upaya perbaikan
+ * Program pengembalian produsen",te_5,92,A
+"* Pendauran Ulang
+ * Pengumpulan E-Waste
+ * Donasi / Pengumpulan Kembali
+ * Pemuktahiran dan Perbaikan",te_5,88,A
+"Recycling (Pengolahan Kembali),
+ Donasi dan Pembaruan (Upcycling),
+ Perawatan dan Pembelian yang Bijak.
+ Tekonologi Ramah Lingkungan.",te_5,90,A
+"melebur nya
+ mendaur ulang
+ jadikan kerajinan tangan",te_5,83,A
+"1. Melakukan perbaikan
+ 2. Part yang sudah tidak bisa dipakai bisa dilakukan peleburan untuk mengambil komponen2 seperti emas yang berada di motherboard.
+ 3. Plastik plastik yang ada di komponen tersebut bisa di lelehkan untuk dibuat produk lainnya",te_5,85,A
+"daur ulang
+ perawatan yang baik agar lebih tahan lama
+ memiliki barang elektronik secukupnya",te_5,73,B
+"cara mengatasi sampah elektronik :
+ 1. Menjual kembali barang tersebut
+ 2. Donasikan barang
+ 3. Menyewakan barang",te_5,77,B
+"reduce, reuse, recycle",te_5,77,B
+"* donasikan barang elektronik yang lama
+ * menjual barang elektronik
+ * menjaga barang elektronik",te_5,77,B
+"* Mendonasikan barang elektronik ke orang yang membutuhkan.
+ * Menjual barang elektronik.
+ * Menjaga barang elektronik.",te_5,77,B
+"Menjaga barang elektronik
+ Menyimpan data secara Online
+ Memperbaiki alat elektronik yg rusak",te_5,53,C
+"* Daur ulang
+ *",te_5,37,D
+Volatile memory adalah salah satu jenis memori yang membutuhkan listrik untuk menggunakannya. Jika listrik mati data yang disimpan akan hilang.,te_6,93,A
+Merupakan jenis memori dalam komputasi yang membutuhkan daya untuk menyimpan informasi yang disimpan,te_6,80,A
+memori yang ketika daya listrik dimatikan maka data yang tersimpan akan menghilang.,te_6,93,A
+Volatile memory (memori volatil) adalah jenis memori komputer yang kehilangan data yang tersimpan di dalamnya saat daya listrik atau daya komputer dimatikan atau terputus.,te_6,93,A
+merupakan jenis memori yang membutuhkan daya untuk mempertahankan informasi yang tersimpan sehingga ketika dimatikan data yang tersimpan akan hilang salah satu contoh volatile memory : RAM,te_6,83,A
+"volatile memory adalah memori yang menyimpan data yang sifatnya hanya ada ketika ada dayanya/powernya
+ 
+ berarti data akan hilang jika daya/powernya hilang.",te_6,93,A
+Arti volatile dalam memory adalah jenis memori yang menyimpan datanya hanya saat perangkat diberi daya,te_6,93,A
+volatile memory merupakan JENIS MEMORI DALAM KOMPUTASI YANG MEMBUTUHKAN DAYA UNTUK MENYIMPAN INFORMASI YANG DISIMPAN contoh dari media penyimpanan jenis volatile memory adalam RAM. Data-data yang tersimpan didalam RAM rutin diperbaharui secara berkala untuk menghidari data yang tersimpan hilang.,te_6,83,A
+merupakan jenis memori yang membutuhkan daya untuk menyimpan informasi yang disimpan,te_6,80,A
+volatile memory merupaka jenis memori komputer yang kehilangan data yang disimpan di dalamnya saat daya listrik terputus atau perangkat dimatikan,te_6,93,A
+Volatile Memory adalah jenis memori yang membutuhkan daya untuk melakukan penyimpanan informasi.,te_6,80,A
+"Volatile memory, atau dikenal juga sebagai RAM (Random Access Memory), adalah jenis memori komputer yang digunakan untuk menyimpan data sementara yang diperlukan oleh komputer saat sedang dioperasikan. Karakteristik utama dari volatile memory adalah bahwa data yang disimpan di dalamnya akan hilang saat daya listrik komputer dimatikan atau ketika komputer dimatikan.",te_6,93,A
+VOLATILE MEMORY (memori yang mudah hilang) adalah jenis memori dimana komputer yang menyimpan data hanya saat daya listrik disuplai ke komputer. Data tersebut akan hilang jika daya listrik terputus atau dimatikan.,te_6,93,A
+"Volatile memoryadalah jenis memori komputer yang kehilangan data yang disimpan di dalamnya ketika daya listrik diputuskan atau ketika komputer dimatikan. Dalam hal ini, ""volatile"" berarti sifat memori ini yang tidak dapat menyimpan data dalam jangka waktu yang lama tanpa pasokan daya listrik terus-menerus.
+ 
+ Karakteristik utama dari volatile memory adalah kecepatan akses yang tinggi dan kemampuan untuk digunakan sebagai tempat penyimpanan data yang aktif selama komputer dalam keadaan hidup. Namun, karena sifatnya yang volatil, data yang penting harus disimpan di media penyimpanan yang lebih permanen, seperti hard drive atau solid-state drive (SSD), untuk menghindari kehilangan data saat komputer dimatikan.",te_6,93,A
+"memori yang menyimpan datanya hanya saat perangkat diberi daya, jika dayanya hilang maka datanya akan hilang juga",te_6,90,A
+Salah satu jenis memory yang berfungsi ketika diberikan daya.,te_6,77,B
+memory yang tidak stabil,te_6,43,C
+ukuran satistik harga sekuritas dalam periode waktu tertentu,te_6,0,E
