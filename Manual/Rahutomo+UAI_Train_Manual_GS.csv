@@ -1008,3 +1008,86 @@ ukuran satistik harga sekuritas dalam periode waktu tertentu,te_6,0,E
 "Donut, Gingerbread, Honeycomb, Ice Cream, Jellybean, Kitkat, Lollipop, Marshmallow, Nutella, Oreo, Pie,",te_8,73,B
 "ice cream sandwich, jelly bean, kitkat, lolipop, marshmallow, nuget, oreo, pancake",te_8,63,B
 android 1.5,te_8,13,E
+"LAN (Local Area Network) adalah susunan fisik atau geometri yang menggambarkan bagaimana perangkat dalam jaringan terhubung satu sama lain.
+ 
+ - bintang
+ 
+ - bus
+ 
+ - cincin",te_9,80,A
+"Topologi jaringan LAN adalah jaringan komputer yang terdiri dari dari beberapa komputer yang saling terhubung dalam suatu area yang relatif kecil.
+ 
+ Contoh topologi:
+ 
+ * Topologi Ring
+ * Topologi Star
+ * Topologi Tree",te_9,88,A
+"Topologi jaringan LAN (Local Area Network) mengacu pada cara fisik atau struktural di mana perangkat dalam jaringan lokal terhubung satu sama lain. Berikut adalah beberapa contoh topologi jaringan LAN yang umum digunakan:
+ 
+ * Bus Topology
+ * Star Topology
+ * Ring Topology
+ * Mesh Topology
+ * Hybrid Topology",te_9,90,A
+"TOPOLOGI JARINGAN LAN (Local Area Network) adalah pola atau susunan fisik dari bagaimana perangkat di dalam jaringan terhubung satu sama lain. beberapa contoh topologi LAN adalah :
+ 
+ Topologi Bintang/Star
+ Topologi Bus
+ Topologi Cincin",te_9,88,A
+"Topologi jaringan LAN adalah metode menghubungkan node agar terhubung dalam satu jaringan LAN/Lokal, Contoh: Bus, Star, Ring",te_9,77,B
+"LAN (Local Area Network) mencakup wilayah lokal, dengan topologi star, bus, ring",te_9,65,B
+"LAN merupakann jaringan komputer yang menghubungkan komputer dengan prangkat jaringan lainnya YANG CAKUPANNYA TERBATAS, biasanya hanya beberapa kilometer.
+ 
+ contoh torpologi:
+ 
+ torpologibus
+ 
+ torpologistar
+ 
+ torpologiring",te_9,68,B
+"komputer komputer yang saling berhubungan/dihubungkan bersamaan dalam satu area yang kecil.
+ 
+ contoh : mesh, bus, star, ring, hybrid, tree",te_9,63,B
+"LAN merupakan jaringan internet dengan jangkauan mencakup wilayah lokal
+ 
+ contoh : telephon, internet, sharing data",te_9,60,B
+"LAN adalah suatu jaringan komputer yang cakupan wilayahnya hanya mencakup wilayah lokal saja atau terbatas. Contoh yang termasuk jaringan LAN adalah jaringan komputer di perkantoran, sekolah, cafe, rumah pribadi",te_9,60,B
+"perangkat yang terhubung dengan jaringan satu sama lain
+ 
+ 1. Topologi star
+ 2. Topologi bus
+ 3. Topologi ring",te_9,58,C
+"LAN atau local area network, adalah topologi jaringan yang diciptakan untuk satu tempat atau bangunan tertentu.
+ 
+ selain LAN ada juga WAN, MAN, dan PAN",te_9,53,C
+Topologi LAN merupakan metode yang menghubungkan jaringan 2 komputer atau lebih,te_9,53,C
+"Jaringan Lan adalah Keperluan Informasi Dan Komunikasi Dengan jaringan komputer, setiap pekerjaan diharapkan dapat selesai dengan cepat. 
+ 
+ Telepon, Setting router atau access point, Internet",te_9,47,C
+"Jaringan LAN berfungsi untuk menghubungkan perangkat jaringan dalam kondisi jangkauan yang relatif kecil. Lan merupakan salah satu tipe jaringan komputer yang umum dijumpai. 
+ 
+ Contoh:",te_9,47,C
+"local area network, topologi bus, star, ring",te_9,53,C
+"Topologi LAN merupakan suatu Jenis Jaringan Komputer dengan mencakup wilayah lokal.
+ 
+ Topologi RING
+ 
+ Topologi",te_9,58,C
+Bluetooth adalah media komunikasi tanpa kabel (wireless) antar perangkat untuk dapat bertukar informasi dengan jarak dekat.,te_10,92,A
+Bluetooth adalah sebuah teknologi nirkabel yang digunakan untuk menghubungkan dan mentransfer data antara perangkat elektronik yang berdekatan satu sama lain secara singkat dan sederhana.,te_10,90,A
+teknologi yang memnungkinkan mengirim data atau file melalui frekuensi secara nirkabel,te_10,82,A
+"secara bahasa adalah GIGI BIRU
+ 
+ secara teknologi, bluetooth adalah teknologi wireless jarak dekat yang digunakan untuk melakukan pertukaran data berupa teks, gambar, ataupun audio 
+ 
+ bluetooth beroperasi dalam pita frekuensi 2.4 GHz",te_10,97,A
+Bluetooth adalah teknologi yang memungkinkan perangkat satu dengan yang lainnya saling terhubung tanpa membutuhkan kabel.,te_10,83,A
+"bluetooth merupakan sebuah teknologi komunikasi wirelessyang digunakan untuk menghubungkan perangkat elektronik, seperti hp, tablet, laptop, dan perangkat audio, secara nirkabel.",te_10,82,A
+Bluetooth adalah teknologi yang memungkinkan untuk menghubungkan perangkat satu dengan perangkat lainnya tanpa membutuhkan kabel.,te_10,82,A
+"Bluetooth adalah teknologi nirkabel yang digunakan untuk menghubungkan perangkat elektronik dengan perangkat lainnya dalam jarak pendek. Ini memungkinkan perangkat seperti ponsel cerdas, laptop, speaker, keyboard, dan banyak lagi untuk berkomunikasi dan bertukar data satu sama lain tanpa perlu kabel fisik.",te_10,95,A
+BLUETOOTH adalah teknologi nirkabel yang digunakan untuk mentransfer data antar perangkat elektronik melalui gelombang radio frekuensi. Teknologi ini dirancang untuk menghubungkan perangkat elektronik secara sederhana dan mudah tanpa perlu kabel fisik.,te_10,88,A
+"Bluetooth adalah sebuah standar komunikasi nirkabel yang digunakan untuk mentransfer data antara perangkat elektronik secara jarak pendek. Teknologi ini memungkinkan perangkat seperti ponsel cerdas, laptop, headset, keyboard, mouse, speaker, dan banyak perangkat lainnya untuk terhubung dan berkomunikasi satu sama lain tanpa menggunakan kabel fisik.",te_10,95,A
+"menghubungkan periferal ke ponsel, desktop, dan leptop secara nirkabel",te_10,82,A
+Perangkat yang dapat menghubungkan dari device A dan Device B tanpa harus menggunakan Kabel.,te_10,82,A
+teknologi untuk mengirim data tanpa kabel,te_10,70,B
+Bluetooh adalah jaringan tanpa kabel,te_10,63,B
